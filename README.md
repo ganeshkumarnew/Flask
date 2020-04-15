@@ -1,6 +1,7 @@
 # Flask
 
-
+pip install Flask
+pip install Flask-SQLAlchemy
 after Integration Execute in Terminal Python
 
 >>>from App import db
